@@ -24,22 +24,28 @@ class NewsService {
     private val location = "spb"
 
     suspend fun getNews(count: Int = 100): List<News> {
-        val json = Json { ignoreUnknownKeys = true }
-        val client = HttpClient(CIO)
-        val response: HttpResponse = client
-            .get(url) {
-                parameter("location", location)
-                parameter("text_format", "text")
-                parameter("expand", "place")
-                parameter(
-                    "fields",
-                    "id,title,place,description,site_url,favorites_count,comments_count,publication_date"
-                )
-                parameter("page_size", count)
-            }
-        val allNews = json.decodeFromString<AllNews>(response.bodyAsText())
+        try {
+            val json = Json { ignoreUnknownKeys = true }
+            val client = HttpClient(CIO)
+            val response: HttpResponse = client
+                .get(url) {
+                    parameter("location", location)
+                    parameter("text_format", "text")
+                    parameter("expand", "place")
+                    parameter(
+                        "fields",
+                        "id,title,place,description,site_url,favorites_count,comments_count,publication_date"
+                    )
+                    parameter("page_size", count)
+                }
+            val allNews = json.decodeFromString<AllNews>(response.bodyAsText())
 
-        return allNews.results
+            return allNews.results
+        } catch (exc: Exception) {
+            logger.error("Error while sending request to API", exc)
+        }
+
+        return emptyList()
     }
 
     fun saveNews(path: String, news: Collection<News>) {
