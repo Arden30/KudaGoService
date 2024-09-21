@@ -1,6 +1,7 @@
 package arden.java.model
 
 import kotlinx.serialization.*
+import kotlin.math.exp
 
 @Serializable
 data class AllNews(
@@ -20,8 +21,11 @@ data class News(
     @SerialName("favorites_count") val favoritesCount: Long,
     @SerialName("comments_count") val commentsCount: Long,
     @SerialName("publication_date") var date: Long,
-    var rating: Double? = null
-)
+) {
+    val rating: Double by lazy {
+        1 / (1 + exp((-(favoritesCount / (commentsCount + 1))).toDouble()))
+    }
+}
 
 @Serializable
 data class Place(

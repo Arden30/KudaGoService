@@ -17,7 +17,6 @@ import java.nio.file.Paths
 import java.time.Instant
 import java.time.LocalDate
 import java.time.ZoneOffset
-import kotlin.math.exp
 
 class NewsService {
     private val logger = LoggerFactory.getLogger(NewsService::class.java)
@@ -96,30 +95,26 @@ class NewsService {
 
 // with lists & cycles
 fun List<News>.getMostRatedNewsWithCycles(count: Int, period: ClosedRange<LocalDate>): List<News> {
+    val news = mutableListOf<News>()
     var i = -1
     while (i++ < this.size - 1) {
         val localDate = parseDate(this[i].date)
         if (localDate in period) {
-            this[i].rating = 1 / (1 + exp((-(this[i].favoritesCount / (this[i].commentsCount + 1))).toDouble()))
+            news.add(this[i])
         }
     }
 
-    return this.filter { it.rating != null }
-        .sortedByDescending { it.rating }
+    return news.sortedByDescending { it.rating }
         .take(count)
 }
 
 // with sequences
 fun List<News>.getMostRatedNewsWithSequences(count: Int, period: ClosedRange<LocalDate>): List<News> {
     return this.asSequence()
-        .map { news: News ->
+        .filter { news: News ->
             val localDate = parseDate(news.date)
-            if (localDate in period) {
-                news.rating = 1 / (1 + exp((-(news.favoritesCount / (news.commentsCount + 1))).toDouble()))
-            }
-            news
-        }.filter { it.rating != null }
-        .sortedByDescending { it.rating }
+            localDate in period
+        }.sortedByDescending { it.rating }
         .take(count)
         .toList()
 }

@@ -1,7 +1,6 @@
 plugins {
     kotlin("jvm") version "2.0.0"
     kotlin("plugin.serialization") version "2.0.20"
-    id("io.freefair.lombok") version "8.1.0"
 }
 
 group = "arden.java"
