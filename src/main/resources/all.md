@@ -1,1999 +1,2199 @@
-### Вышел новый тизер продолжения «Игры в кальмара»
-**Id:** 51467
+### «Ночлежка» открыла первый пункт обогрева для бездомных в Петербурге
+**№:** 0
 
-**Place:** Place is undefined
-
-
-**Description:** Новые эпизоды покажут в конце года.
-
-
-**Site url:** [Вышел новый тизер продолжения «Игры в кальмара»](https://kudago.com/all/news/novyj-tizer-igra-v-kalmara-2/)
-
-**Favorites:** 0
-
-**Comments:** 0
-
-**Publication date:** 2024-09-20
-
-**Rating:** 0.5
-
-
-### В России могут запретить повышать цены на такси во время чрезвычайных ситуаций
-**Id:** 51464
+**Id:** 51727
 
 **Place:** Place is undefined
 
 
-**Description:** Безопасный транспорт должен стать доступнее.
+**Description:** Второй заработает на этой неделе.
 
 
-**Site url:** [В России могут запретить повышать цены на такси во время чрезвычайных ситуаций](https://kudago.com/all/news/v-rossii-mogut-zapretit-povyshat-ceny-na-taksi/)
+**Site url:** [«Ночлежка» открыла первый пункт обогрева для бездомных в Петербурге](https://kudago.com/spb/news/nochlezhka-otkryila-pervyij-punkt/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-16
 
 **Rating:** 0.5
 
-
-### В Петербурге представили книгу о спорте в блокадном Ленинграде
-**Id:** 51465
-
-**Place:** Place is undefined
-
-
-**Description:** Она приурочена к юбилею снятия блокады.
-
-
-**Site url:** [В Петербурге представили книгу о спорте в блокадном Ленинграде](https://kudago.com/spb/news/v-peterburge-predstavili-knigu-o/)
-
-**Favorites:** 0
-
-**Comments:** 0
-
-**Publication date:** 2024-09-20
-
-**Rating:** 0.5
 
+### В России вырос спрос на тарологов и астрологов
+**№:** 1
 
-### Нашли неизвестное произведение Моцарта
-**Id:** 51462
+**Id:** 51725
 
 **Place:** Place is undefined
 
 
-**Description:** Композитор написал его ещё подростком.
+**Description:** Вакансии вызывают нешуточный интерес у соискателей.
 
 
-**Site url:** [Нашли неизвестное произведение Моцарта](https://kudago.com/all/news/nashli-neizvestnoe-proizvedenie/)
+**Site url:** [В России вырос спрос на тарологов и астрологов](https://kudago.com/all/news/v-rossii-vyiros-spros-tarologov-i/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-16
 
 **Rating:** 0.5
 
 
-### Чарли Ханнэм сыграет маньяка Эда Гейна в третьем сезоне «Монстра»
-**Id:** 51463
+### В Петербурге восстанавливают музей Михаила Лермонтова
+**№:** 2
 
+**Id:** 51723
+
 **Place:** Place is undefined
 
 
-**Description:** Образ этого серийного убийцы не раз находил отражение в кино.
+**Description:** Он находился в здании лицея № 280.
 
 
-**Site url:** [Чарли Ханнэм сыграет маньяка Эда Гейна в третьем сезоне «Монстра»](https://kudago.com/all/news/charli-hannem-syigraet-manyaka-eda/)
+**Site url:** [В Петербурге восстанавливают музей Михаила Лермонтова](https://kudago.com/spb/news/v-peterburge-vosstanavlivayut/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
 
 
-### Семьи пройдут испытание дачей в новом шоу «Парниковый эффект»
-**Id:** 51460
+### Райану Рейнольдсу и Хью Джекману предложили стать ведущими «Оскара»
+**№:** 3
 
+**Id:** 51722
+
 **Place:** Place is undefined
 
 
-**Description:** Главный приз — 100 000 рублей.
+**Description:** Приглашение получили ещё несколько звёзд.
 
 
-**Site url:** [Семьи пройдут испытание дачей в новом шоу «Парниковый эффект»](https://kudago.com/all/news/semi-projdut-ispyitanie-dachej-v/)
+**Site url:** [Райану Рейнольдсу и Хью Джекману предложили стать ведущими «Оскара»](https://kudago.com/all/news/rajanu-rejnoldsu-i-hyu-dzhekmanu/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
+
 
+### Над Россией летит самая яркая комета за 13 лет
+**№:** 4
 
-### Опубликован финальный трейлер нового «Джокера»
-**Id:** 51461
+**Id:** 51721
 
 **Place:** Place is undefined
 
 
-**Description:** Он выходит в мировой прокат в начале октября.
+**Description:** Она видна невооружённым глазом.
 
 
-**Site url:** [Опубликован финальный трейлер нового «Джокера»](https://kudago.com/all/news/finalnyij-trejler-novogo-dzhokera/)
+**Site url:** [Над Россией летит самая яркая комета за 13 лет](https://kudago.com/all/news/nad-rossiej-proletaet-samaya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
 
 
-### Гвен Стефани анонсировала новый альбом
-**Id:** 51458
+### Вход в Эрмитаж стал бесплатным для членов многодетных семей
+**№:** 5
 
+**Id:** 51720
+
 **Place:** Place is undefined
 
 
-**Description:** Он выйдет в ноябре.
+**Description:** Льготные билеты доступны на сайте.
 
 
-**Site url:** [Гвен Стефани анонсировала новый альбом](https://kudago.com/all/news/gven-stefani-anonsirovala-novyij/)
+**Site url:** [Вход в Эрмитаж стал бесплатным для членов многодетных семей](https://kudago.com/spb/news/vhod-v-ermitazh-stal-besplatnyim-dlya-mnogodetnyh-semej/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
+
 
+### В Выборгском замке появился бронзовый кот Филимон
+**№:** 6
 
-### Go по работам: кастинг-директор Татьяна Хречкова о режиссёрском видении, новых лицах в кино и будущем кастинга
-**Id:** 51394
+**Id:** 51718
 
 **Place:** Place is undefined
 
 
-**Description:** В России проходит фестиваль документального кино о новой культуре Beat Weekend, на котором зрителям демонстрируют фильм Bonnie про легендарного голливудского кастинг-директора Бонни Тиммерман, открывшего миру множество известных актёров. Мы попросили актрису Полину Сидихину поговорить с кастинг-директором Татьяной Хречковой. Получилась беседа о тонкостях профессии с пожеланиями для актёров.
+**Description:** Он одет в пальто.
 
 
-**Site url:** [Go по работам: кастинг-директор Татьяна Хречкова о режиссёрском видении, новых лицах в кино и будущем кастинга](https://kudago.com/all/news/go-po-rabotam-kasting-direktor/)
+**Site url:** [В Выборгском замке появился бронзовый кот Филимон](https://kudago.com/spb/news/v-vyiborgskom-zamke-poyavilsya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
 
 
-### Go по работам: интерьерный фотограф о секретах отличного фото, правильной съёмке и силовых тренировках
-**Id:** 51237
+### Спектакль окончен: рецензия на фильм «Джокер: Безумие на двоих»
+**№:** 7
 
+**Id:** 51716
+
 **Place:** Place is undefined
 
 
-**Description:** За каждой качественной фотографией квартиры стоит слаженная работа интерьерного фотографа с командой других специалистов. Всё для того, чтобы продемонстрировать интерьеры с лучшей стороны. Екатерина Титенко, герой рубрики Go по работам, точно знает, как добавить тысячу очков к привлекательности вашей квартиры. Она рассказала нам о тонкостях своей профессии и карьерном пути, а также поделилась историями с работы.
+**Description:** В мировой прокат вышел сиквел «Джокера» с подзаголовком «Безумие на двоих». Продолжение мрачного хита о злодее представляет собой невнятный микс мюзикла и судебной драмы. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
 
 
-**Site url:** [Go по работам: интерьерный фотограф о секретах отличного фото, правильной съёмке и силовых тренировках](https://kudago.com/all/news/go-po-rabotam-interernyij/)
+**Site url:** [Спектакль окончен: рецензия на фильм «Джокер: Безумие на двоих»](https://kudago.com/all/news/retsenziya-na-film-dzhoker-bezumie-na-dvoih/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
+
 
+### Грибники из Петербурга и Ленобласти хвастаются полными корзинами
+**№:** 8
 
-### Вышел трейлер новой версии «Преступления и наказания»
-**Id:** 51457
+**Id:** 51714
 
 **Place:** Place is undefined
 
 
-**Description:** Премьера — в конце октября.
+**Description:** Заморозки тихой охоте не помеха.
 
 
-**Site url:** [Вышел трейлер новой версии «Преступления и наказания»](https://kudago.com/all/news/trejler-novoj-versii-prestupleniya-i-nakazaniya/)
+**Site url:** [Грибники из Петербурга и Ленобласти хвастаются полными корзинами](https://kudago.com/spb/news/gribniki-iz-peterburga-i/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
 
 
-### На улицах Петербурга заметили кабана
-**Id:** 51456
+### Роман с призраком: рецензия на фильм «Сидони в Японии»
+**№:** 9
 
+**Id:** 51713
+
 **Place:** Place is undefined
 
 
-**Description:** И лису.
+**Description:** Кинопрокат радует фестивальными новинками. На этот раз на больших экранах можно увидеть ленту с недавнего Венецианского кинофестиваля — фильм Элиз Жирар с Изабель Юппер, Цуёси Ихара и Аугустом Дилем в главных ролях. Медленная драма о скорби и спокойной любви — то, что нужно этой осенью. О прелестях и тонкостях этой чудесной работы читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
 
 
-**Site url:** [На улицах Петербурга заметили кабана](https://kudago.com/spb/news/na-ulitsah-peterburga-zametili/)
+**Site url:** [Роман с призраком: рецензия на фильм «Сидони в Японии»](https://kudago.com/all/news/retsenziya-na-film-sidoni-v-yaponii/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
 
 
-### В Ленобласти появится экотропа для бёрдвотчеров
-**Id:** 51455
+### В Ленобласти спасают лисицу с переломами передних лап
+**№:** 10
 
+**Id:** 51710
+
 **Place:** Place is undefined
 
 
-**Description:** Открытие осенью.
+**Description:** Её ждёт операция.
 
 
-**Site url:** [В Ленобласти появится экотропа для бёрдвотчеров](https://kudago.com/spb/news/v-lenoblasti-poyavitsya-ekotropa/)
+**Site url:** [В Ленобласти спасают лисицу с переломами передних лап](https://kudago.com/spb/news/v-lenoblasti-vyihazhivayut-lisa-s/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-15
 
 **Rating:** 0.5
+
 
+### В России могут запретить выступления животных в цирке
+**№:** 11
 
-### Минпросвещения решило убрать гольф и чирлидинг из школьной программы
-**Id:** 51453
+**Id:** 51709
 
 **Place:** Place is undefined
 
 
-**Description:** По просьбам педагогов и учащихся.
+**Description:** Закон рассмотрят в ноябре.
 
 
-**Site url:** [Минпросвещения решило убрать гольф и чирлидинг из школьной программы](https://kudago.com/all/news/minprosvescheniya-reshilo-ubrat/)
+**Site url:** [В России могут запретить выступления животных в цирке](https://kudago.com/all/news/v-rossii-mogut-zapretit-vystupleniya-zhivotnyh-v-cirke/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-20
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
 
 
-### Появились новые кадры из сериала «Звездные войны: Опорная команда» с Джудом Лоу и пиратами-квадроберами
-**Id:** 51450
+### Между Москвой и Петербургом начнёт ходить двухэтажная «Аврора»
+**№:** 12
 
+**Id:** 51708
+
 **Place:** Place is undefined
 
 
-**Description:** Премьера зимой.
+**Description:** Её запустят в конце года.
 
 
-**Site url:** [Появились новые кадры из сериала «Звездные войны: Опорная команда» с Джудом Лоу и пиратами-квадроберами](https://kudago.com/all/news/poyavilis-novyie-kadryi-iz-seriala/)
+**Site url:** [Между Москвой и Петербургом начнёт ходить двухэтажная «Аврора»](https://kudago.com/all/news/mezhdu-moskvoj-i-sankt-14-10-2024/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
+
 
+### Идёт работа над новым сериалом про Штирлица
+**№:** 13
 
-### Элайджа Вуд путешествует с дочерью по Новой Зеландии в трейлере «Фантастического приключения»
-**Id:** 51449
+**Id:** 51707
 
 **Place:** Place is undefined
 
 
-**Description:** В России картина выйдет в октябре.
+**Description:** Съёмки могут стартовать следующим летом.
 
 
-**Site url:** [Элайджа Вуд путешествует с дочерью по Новой Зеландии в трейлере «Фантастического приключения»](https://kudago.com/all/news/v-trejlere-fantasticheskogo/)
+**Site url:** [Идёт работа над новым сериалом про Штирлица](https://kudago.com/all/news/idyot-rabota-nad-novyim-serialom/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
 
 
-### «Страсти Христовы» Мела Гибсона получат продолжение
-**Id:** 51447
+### Котят нашли в коробке с чипсами
+**№:** 14
 
+**Id:** 51706
+
 **Place:** Place is undefined
 
 
-**Description:** Съёмки стартуют в 2025 году.
+**Description:** Их уже пристроили в хорошие руки.
 
 
-**Site url:** [«Страсти Христовы» Мела Гибсона получат продолжение](https://kudago.com/all/news/strasti-hristovyi-mela-gibsona/)
+**Site url:** [Котят нашли в коробке с чипсами](https://kudago.com/all/news/kotyat-nashli-v-korobke-s-chipsami/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
+
 
+### В Петербурге благоустроили берега Верхнего Суздальского озера
+**№:** 15
 
-### Создатели Comedy Club объявили о завершении шоу
-**Id:** 51448
+**Id:** 51703
 
 **Place:** Place is undefined
 
 
-**Description:** Всего вышло 20 сезонов проекта.
+**Description:** На территории появилась инфраструктура для маломобильных горожан.
 
 
-**Site url:** [Создатели Comedy Club объявили о завершении шоу](https://kudago.com/all/news/comedy-club-obyavil-o-zakrytii/)
+**Site url:** [В Петербурге благоустроили берега Верхнего Суздальского озера](https://kudago.com/spb/news/v-peterburge-blagoustroili/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
 
 
-### Появился трейлер австралийского «Офиса» с женщиной-боссом
-**Id:** 51445
+### В октябре можно будет наблюдать суперлуние
+**№:** 16
 
+**Id:** 51704
+
 **Place:** Place is undefined
 
 
-**Description:** Премьера — в октябре.
+**Description:** Оно станет главным и последним в этом году.
 
 
-**Site url:** [Появился трейлер австралийского «Офиса» с женщиной-боссом](https://kudago.com/all/news/trejler-avstralijskogo-ofisa/)
+**Site url:** [В октябре можно будет наблюдать суперлуние](https://kudago.com/all/news/v-oktyabre-mozhno-budet-nablyudat/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
 
 
-### В окрестностях Петербурга заметили чёрных лебедей
-**Id:** 51440
+### Одноклассники запускают уникальное научпоп-шоу про садоводство
+**№:** 17
 
+**Id:** 51702
+
 **Place:** Place is undefined
 
 
-**Description:** Они улетают на зимовку.
+**Description:** В нём расскажут, как получить высокий урожай при помощи современных технологий.
 
 
-**Site url:** [В окрестностях Петербурга заметили чёрных лебедей](https://kudago.com/spb/news/v-okrestnostyah-peterburga/)
+**Site url:** [Одноклассники запускают уникальное научпоп-шоу про садоводство](https://kudago.com/all/news/odnoklassniki-zapuskayut/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
+
 
+### В Петербурге и Ленобласти перешли на регулярное отопление
+**№:** 18
 
-### В Ленобласти начался сезон клюквы
-**Id:** 51441
+**Id:** 51701
 
 **Place:** Place is undefined
 
 
-**Description:** Помимо ягод из леса продолжают нести подосиновики.
+**Description:** В связи с понижением температуры.
 
 
-**Site url:** [В Ленобласти начался сезон клюквы](https://kudago.com/spb/news/v-lenoblasti-nachalsya-sezon-klyukvy/)
+**Site url:** [В Петербурге и Ленобласти перешли на регулярное отопление](https://kudago.com/spb/news/v-peterburge-i-lenoblasti-regulyarnoe-otoplenie/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
 
 
-### В Петербурге неожиданно появилось северное сияние
-**Id:** 51438
+### В Петербурге ждут бабье лето
+**№:** 19
 
+**Id:** 51700
+
 **Place:** Place is undefined
 
 
-**Description:** В прогнозе не было магнитной бури.
+**Description:** А в Ленобласти снег.
 
 
-**Site url:** [В Петербурге неожиданно появилось северное сияние](https://kudago.com/spb/news/v-peterburge-neozhidanno/)
+**Site url:** [В Петербурге ждут бабье лето](https://kudago.com/spb/news/v-peterburge-zhdut-babe-leto/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-19
+**Publication date:** 2024-10-14
 
 **Rating:** 0.5
+
 
+### Шоу «Натальная карта» запустило сервис с предсказаниями
+**№:** 20
 
-### Радости смерти: рецензия на фильм «Битлджус Битлджус»
-**Id:** 51435
+**Id:** 51633
 
 **Place:** Place is undefined
 
 
-**Description:** Спустя 35 лет после премьеры оригинального «Битлджуса» мрачный сказочник Тим Бёртон возвращается к своему фирменному стилю и ранним работам. Как итог — сиквел странноватой и скомканной истории про трикстера из загробного мира. Впрочем, не менее впечатляющий, чем первая часть. О триумфальном возвращении Бёртона и фильме-открытии Венецианского кинофестиваля читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+**Description:** Можно составить свою натальную карту и проверить совместимость.
 
 
-**Site url:** [Радости смерти: рецензия на фильм «Битлджус Битлджус»](https://kudago.com/all/news/retsenziya-na-film-bitldzhus-bitldzhus/)
+**Site url:** [Шоу «Натальная карта» запустило сервис с предсказаниями](https://kudago.com/all/news/shou-natalnaya-karta-zapustilo/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
 
 
-### В Казахстане нашли кота, потерявшегося в аэропорту месяц назад
-**Id:** 51433
+### Энн Хэтэуэй подтвердила участие в третьей части «Дневников принцессы»
+**№:** 21
 
+**Id:** 51632
+
 **Place:** Place is undefined
 
 
-**Description:** Он здоров, но сильно похудел.
+**Description:** Её снимет женщина-режиссёр.
 
 
-**Site url:** [В Казахстане нашли кота, потерявшегося в аэропорту месяц назад](https://kudago.com/all/news/v-kazahstane-nashli-kota/)
+**Site url:** [Энн Хэтэуэй подтвердила участие в третьей части «Дневников принцессы»](https://kudago.com/all/news/enn-heteuej-podtverdila-uchastie/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
+
 
+### Открыт приём заявок для участия в Эрарта Премии — 2025
+**№:** 22
 
-### Опубликован трейлер фильма «Мелочи жизни» с Киллианом Мёрфи
-**Id:** 51431
+**Id:** 51618
 
 **Place:** Place is undefined
 
 
-**Description:** В России картина выйдет весной.
+**Description:** До 20 октября музей современного искусства Эрарта проводит приём заявок на соискание премии в 2025 году. Всего будет выбрано 40 авторов, а призовой фонд составит 3 500 000 рублей. Самое интересное, что победителей этого уникального конкурса определят не эксперты, а зрители.
 
 
-**Site url:** [Опубликован трейлер фильма «Мелочи жизни» с Киллианом Мёрфи](https://kudago.com/all/news/trejler-filma-melochi-zhizni/)
+**Site url:** [Открыт приём заявок для участия в Эрарта Премии — 2025](https://kudago.com/spb/news/otkryit-priyom-zayavok-dlya-erarta/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
 
 
-### Индекс счастья россиян упал до минимальных показателей с 2014 года
-**Id:** 51430
+### В России может появиться студенческая ипотека
+**№:** 23
 
+**Id:** 51631
+
 **Place:** Place is undefined
 
 
-**Description:** Уровень медленно снижался в течение лета.
+**Description:** Молодые семьи смогут купить большую квартиру для себя и будущих детей.
 
 
-**Site url:** [Индекс счастья россиян упал до минимальных показателей с 2014 года](https://kudago.com/all/news/indeks-schastya-upal-do/)
+**Site url:** [В России может появиться студенческая ипотека](https://kudago.com/all/news/v-rossii-mozhet-poyavitsya-studencheskaya-ipoteka/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
+
 
+### В октябре ожидаются два звездопада
+**№:** 24
 
-### Появился первый трейлер комедии «Братья» с Питером Динклейджем и Джошем Бролином
-**Id:** 51429
+**Id:** 51630
 
 **Place:** Place is undefined
 
 
-**Description:** Её выход намечен на начало октября.
+**Description:** За ними можно наблюдать после захода солнца.
 
 
-**Site url:** [Появился первый трейлер комедии «Братья» с Питером Динклейджем и Джошем Бролином](https://kudago.com/all/news/trejler-komedii-bratya/)
+**Site url:** [В октябре ожидаются два звездопада](https://kudago.com/all/news/v-oktyabre-budet-dva-zvezdopada/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
 
 
-### Вышел трейлер фантастического фильма «Микки 17» с Робертом Паттинсоном
-**Id:** 51428
+### В России планируют ввести штрафы за оскорбление учителей
+**№:** 25
 
+**Id:** 51629
+
 **Place:** Place is undefined
 
 
-**Description:** Премьера состоится в начале следующего года.
+**Description:** Это коснётся и высказываний в сети.
 
 
-**Site url:** [Вышел трейлер фантастического фильма «Микки 17» с Робертом Паттинсоном](https://kudago.com/all/news/trejler-mikki-17-s-robertom-pattinsonom/)
+**Site url:** [В России планируют ввести штрафы за оскорбление учителей](https://kudago.com/all/news/v-rossii-planiruyut-vvesti-shtrafyi/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
+
 
+### В Красногвардейском районе появятся швейные коворкинги
+**№:** 26
 
-### Звезда «Гарри Поттера» сыграет злодейку в «Бриджертонах»
-**Id:** 51427
+**Id:** 51628
 
 **Place:** Place is undefined
 
 
-**Description:** Съёмки нового сезона уже начались.
+**Description:** Они будут бесплатными.
 
 
-**Site url:** [Звезда «Гарри Поттера» сыграет злодейку в «Бриджертонах»](https://kudago.com/all/news/zvezda-garri-pottera-syigraet/)
+**Site url:** [В Красногвардейском районе появятся швейные коворкинги](https://kudago.com/spb/news/v-krasnogvardejskom-rajone-shvejnye-kovorkingi/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
 
 
-### В Ленобласти ждут первые заморозки
-**Id:** 51425
+### В Летнем саду поспела брусника
+**№:** 27
 
+**Id:** 51627
+
 **Place:** Place is undefined
 
 
-**Description:** Их прогнозируют в выходные.
+**Description:** Но лучше её не есть.
 
 
-**Site url:** [В Ленобласти ждут первые заморозки](https://kudago.com/spb/news/v-lenoblasti-zhdut-pervyie/)
+**Site url:** [В Летнем саду поспела брусника](https://kudago.com/spb/news/v-letnem-sadu-pospela-brusnika/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
+
 
+### В Петербурге скоро похолодает
+**№:** 28
 
-### В посёлке Репино благоустроили парк и пляж
-**Id:** 51422
+**Id:** 51622
 
 **Place:** Place is undefined
 
 
-**Description:** «Дюны» теперь украшает фигура тюленя.
+**Description:** А потом потеплеет.
 
 
-**Site url:** [В посёлке Репино благоустроили парк и пляж](https://kudago.com/spb/news/v-repino-blagoustroili-park-i/)
+**Site url:** [В Петербурге скоро похолодает](https://kudago.com/spb/news/v-peterburge-skoro-poholodaet/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-18
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
 
 
-### Правила игры: рецензия на фильм «Виды доброты» Йоргоса Лантимоса
-**Id:** 51419
+### Над Россией зажглось северное сияние
+**№:** 29
 
+**Id:** 51620
+
 **Place:** Place is undefined
 
 
-**Description:** Сейчас на больших экранах и в сети можно увидеть фильм Йоргоса Лантимоса «Виды доброты», который принёс Джесси Племонсу награду за лучшую мужскую роль на Каннском фестивале. Чем хорош новый фильм популярного режиссёра и почему он совсем не похож на «Бедных-несчастных», читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+**Description:** Огни на небе появились в середине ночи.
 
 
-**Site url:** [Правила игры: рецензия на фильм «Виды доброты» Йоргоса Лантимоса](https://kudago.com/all/news/retsenziya-na-film-vidyi-dobrotyi/)
+**Site url:** [Над Россией зажглось северное сияние](https://kudago.com/all/news/nad-rossiej-zazhglos-severnoe-siyanie/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
+
 
+### Смотрим новый трейлер фильма «Паддингтон в Перу»
+**№:** 30
 
-### Стало известно, когда выйдет сериал о Гарри Поттере
-**Id:** 51416
+**Id:** 51615
 
 **Place:** Place is undefined
 
 
-**Description:** Сейчас идёт работа над сценарием.
+**Description:** Медвежонок попадает в удивительные истории в поисках тёти.
 
 
-**Site url:** [Стало известно, когда выйдет сериал о Гарри Поттере](https://kudago.com/all/news/serial-o-garri-pottere-obeschayut-v/)
+**Site url:** [Смотрим новый трейлер фильма «Паддингтон в Перу»](https://kudago.com/all/news/trejler-filma-paddington-v-peru/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-04
 
 **Rating:** 0.5
 
 
-### Стало известно, когда выключат фонтаны «Петергофа»
-**Id:** 51412
+### Большой театр теперь продаёт билеты только по паспортам
+**№:** 31
 
+**Id:** 51614
+
 **Place:** Place is undefined
 
 
-**Description:** В сентябре график работы парков и музеев изменится из-за праздника фонтанов.
+**Description:** Так организация борется с мошенниками.
 
 
-**Site url:** [Стало известно, когда выключат фонтаны «Петергофа»](https://kudago.com/spb/news/kogda-vyklyuchat-fontany-petergofa/)
+**Site url:** [Большой театр теперь продаёт билеты только по паспортам](https://kudago.com/all/news/bolshoj-teatr-teper-prodayot/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-04
 
 **Rating:** 0.5
 
 
-### Кинолог назвал самые популярные осенние имена для собак
-**Id:** 51413
+### В Нью-Йорке крысам будут давать контрацептивы для сокращения их численности
+**№:** 32
 
+**Id:** 51613
+
 **Place:** Place is undefined
 
 
-**Description:** Лидируют Ветер, Осень и Дождь.
+**Description:** Власти продолжают бороться с нашествием грызунов.
 
 
-**Site url:** [Кинолог назвал самые популярные осенние имена для собак](https://kudago.com/all/news/kinolog-nazval-samyie-populyarnyie/)
+**Site url:** [В Нью-Йорке крысам будут давать контрацептивы для сокращения их численности](https://kudago.com/all/news/v-nyu-jorke-kryisam-budut-davat/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-04
 
 **Rating:** 0.5
+
 
+### Эминем станет дедушкой в следующем году
+**№:** 33
 
-### В Ленобласти ловили гималайского медведя и заметили лося на шоссе
-**Id:** 51411
+**Id:** 51612
 
 **Place:** Place is undefined
 
 
-**Description:** Оба события произошли в окрестностях Гатчины.
+**Description:** О беременности единственной дочери он рассказал в клипе.
 
 
-**Site url:** [В Ленобласти ловили гималайского медведя и заметили лося на шоссе](https://kudago.com/spb/news/v-lenoblasti-lovili-gimalajskogo/)
+**Site url:** [Эминем станет дедушкой в следующем году](https://kudago.com/all/news/eminem-stanet-dedushkoj/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-04
 
 **Rating:** 0.5
 
 
-### Был объявлен шорт-лист Букеровской премии
-**Id:** 51410
+### В Михайловском замке откроется выставка рисунков XX века
+**№:** 34
 
+**Id:** 51611
+
 **Place:** Place is undefined
 
 
-**Description:** Победитель станет известен в середине ноября.
+**Description:** Знаменитые живописцы предстанут с новой стороны.
 
 
-**Site url:** [Был объявлен шорт-лист Букеровской премии](https://kudago.com/all/news/short-list-bukerovskoj-premii/)
+**Site url:** [В Михайловском замке откроется выставка рисунков XX века](https://kudago.com/spb/news/v-mihajlovskom-zamke-otkroetsya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-04
 
 **Rating:** 0.5
+
 
+### В Калининском районе открылся скейт-парк
+**№:** 35
 
-### «Эмили в Париже» получила пятый сезон
-**Id:** 51408
+**Id:** 51610
 
 **Place:** Place is undefined
 
 
-**Description:** В нём действие переместится в Рим.
+**Description:** Здесь можно заниматься разнообразным экстремальным спортом.
 
 
-**Site url:** [«Эмили в Париже» получила пятый сезон](https://kudago.com/all/news/emili-v-parizhe-poluchila-pyatyij/)
+**Site url:** [В Калининском районе открылся скейт-парк](https://kudago.com/spb/news/v-kalininskom-rajone-otkryilsya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-04
 
 **Rating:** 0.5
 
 
-### Новая книга Виктора Пелевина получила название «Круть»
-**Id:** 51409
+### В Эрмитаже открылась выставка японских миниатюрных скульптур нэцкэ
+**№:** 36
 
+**Id:** 51604
+
 **Place:** Place is undefined
 
 
-**Description:** Действие детективного романа разворачивается в уголовном мире.
+**Description:** Зрителям представили 185 экспонатов.
 
 
-**Site url:** [Новая книга Виктора Пелевина получила название «Круть»](https://kudago.com/all/news/novaya-kniga-viktora-pelevina-nazyvaetsya-krut/)
+**Site url:** [В Эрмитаже открылась выставка японских миниатюрных скульптур нэцкэ](https://kudago.com/spb/news/vystavka-yaponskih-miniatyurnyh-skulptur-necke/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-17
+**Publication date:** 2024-10-03
 
 **Rating:** 0.5
-
-
-### Вышел дебютный клип One Fish Orchestra «Пинабалерина»
-**Id:** 51404
-
-**Place:** Place is undefined
-
-
-**Description:** Видео One Fish Orchestra выполнено в необычном формате кинотанца.
-
-
-**Site url:** [Вышел дебютный клип One Fish Orchestra «Пинабалерина»](https://kudago.com/all/news/pinabalerina---kinotanets-na/)
 
-**Favorites:** 2
 
-**Comments:** 0
-
-**Publication date:** 2024-09-16
-
-**Rating:** 0.8807970779778823
+### Эрмитаж запускает экскурсии по экспозиции «Костюмы Прекрасной эпохи
+**№:** 37
 
+**Id:** 51603
 
-### Эксперты выяснили, сколько денег нужно россиянам для счастья
-**Id:** 51405
-
 **Place:** Place is undefined
 
 
-**Description:** Самые высокие запросы у жителей Москвы и Владивостока.
+**Description:** Гид поможет разобраться, что влияло на европейскую моду много веков назад.
 
 
-**Site url:** [Эксперты выяснили, сколько денег нужно россиянам для счастья](https://kudago.com/all/news/ekspertyi-vyiyasnili-skolko-deneg/)
+**Site url:** [Эрмитаж запускает экскурсии по экспозиции «Костюмы Прекрасной эпохи](https://kudago.com/spb/news/ermitazh-zapuskaet-ekskursii-po/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-03
 
 **Rating:** 0.5
+
 
+### На пяти особо охраняемых территориях Ленобласти снизили цены на билеты
+**№:** 38
 
-### В Петербурге восстановили три фонтана
-**Id:** 51402
+**Id:** 51602
 
 **Place:** Place is undefined
 
 
-**Description:** Они находятся в историческом центре города.
+**Description:** Особый тариф будет действовать осенью и зимой.
 
 
-**Site url:** [В Петербурге восстановили три фонтана](https://kudago.com/spb/news/v-peterburge-vosstanovili-tri/)
+**Site url:** [На пяти особо охраняемых территориях Ленобласти снизили цены на билеты](https://kudago.com/spb/news/na-pyati-osobo-ohranyaemyih/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-03
 
 **Rating:** 0.5
 
 
-### Старая (не)добрая комедия: рецензия на фильм «Ненасытные люди»
-**Id:** 51401
+### В Сосновом бору заканчивается благоустройство парка на берегу Коваши
+**№:** 39
 
+**Id:** 51601
+
 **Place:** Place is undefined
 
 
-**Description:** Потси Пончироли, режиссёр фильма «Старый Генри», пробует заигрывать со смешением жанров. Поэтому пытается вместить в один флакон чёрную комедию с отчаянной драмой. А ещё дотянуться до почерка всем известных режиссёров — например, Тарантино или братьев Коэн. Но ни того, ни другого, кажется, не получается. Однако, возможно, кого-то порадует возвращение Джозефа Гордона-Левитта на большие экраны. Каким в итоге получился фильм «Ненасытные люди», читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+**Description:** Он превратился в уютное пространство с уголками для отдыха.
 
 
-**Site url:** [Старая (не)добрая комедия: рецензия на фильм «Ненасытные люди»](https://kudago.com/all/news/retsenziya-na-film-nenasyitnyie/)
+**Site url:** [В Сосновом бору заканчивается благоустройство парка на берегу Коваши](https://kudago.com/spb/news/v-sosnovom-boru-zakanchivaetsya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-03
 
 **Rating:** 0.5
+
 
+### В Ленобласти продолжается грибной сезон
+**№:** 40
 
-### Умерла самая старая кошка в мире
-**Id:** 51400
+**Id:** 51669
 
 **Place:** Place is undefined
 
 
-**Description:** Она жила в Великобритании.
+**Description:** Охота за клюквой в самом разгаре.
 
 
-**Site url:** [Умерла самая старая кошка в мире](https://kudago.com/all/news/umerla-samaya-staraya-koshka-v-mire/)
+**Site url:** [В Ленобласти продолжается грибной сезон](https://kudago.com/spb/news/v-lenoblasti-prodolzhaetsya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-10
 
 **Rating:** 0.5
 
 
-### Названы лауреаты премии «Эмми»
-**Id:** 51398
+### Планета против: рецензия на фильм «Говорит Земля!»
+**№:** 41
 
+**Id:** 51665
+
 **Place:** Place is undefined
 
 
-**Description:** Лучшим стал «Сёгун».
+**Description:** В кинотеатрах уже идёт легкомысленная, но забавная комедия «Говорит Земля!». Евгений Корчагин, снимавший «Михалыча» и «Войну семей» для телеканала ТНТ, посвятил свой полнометражный дебют проблемам экологии. Впрочем, довольно поверхностно. Какой получилась экокомедия, читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
 
 
-**Site url:** [Названы лауреаты премии «Эмми»](https://kudago.com/all/news/laureaty-premii-emmi/)
+**Site url:** [Планета против: рецензия на фильм «Говорит Земля!»](https://kudago.com/all/news/retsenziya-na-film-govorit-zemlya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-10
 
 **Rating:** 0.5
 
 
-### По Выборгскому шоссе гуляют лошади
-**Id:** 51396
+### В Японии выпустили самый маленький кубик Рубика в истории
+**№:** 42
 
+**Id:** 51662
+
 **Place:** Place is undefined
 
 
-**Description:** Их видят не в первый раз.
+**Description:** Рекорд подтвердили официально.
 
 
-**Site url:** [По Выборгскому шоссе гуляют лошади](https://kudago.com/spb/news/po-vyiborgskomu-shosse-gulyayut/)
+**Site url:** [В Японии выпустили самый маленький кубик Рубика в истории](https://kudago.com/all/news/v-yaponii-vyipustili-samyij/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
+
 
+### Вышел дебютный трейлер байопика про Боба Дилана
+**№:** 43
 
-### В Ленобласти объявился глухарь-драчун
-**Id:** 51393
+**Id:** 51661
 
 **Place:** Place is undefined
 
 
-**Description:** Он прогоняет со своей территории фотографов и грибников.
+**Description:** Кинолента расскажет о молодости поэта и певца.
 
 
-**Site url:** [В Ленобласти объявился глухарь-драчун](https://kudago.com/spb/news/v-lenoblasti-obyavilsya-gluhar-/)
+**Site url:** [Вышел дебютный трейлер байопика про Боба Дилана](https://kudago.com/all/news/trejler-bajopika-pro-boba-dilana/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
 
 
-### Русский музей предупредил о закрытии нескольких залов
-**Id:** 51392
+### Роман «Йеллоуфейс» Ребекки Куанг экранизируют
+**№:** 44
 
+**Id:** 51660
+
 **Place:** Place is undefined
 
 
-**Description:** В Михайловском дворце готовят выставку к 225-летию Карла Брюллова.
+**Description:** Печатная история о присвоенной книге стала бестселлером.
 
 
-**Site url:** [Русский музей предупредил о закрытии нескольких залов](https://kudago.com/spb/news/russkij-muzej-predupredil-o/)
+**Site url:** [Роман «Йеллоуфейс» Ребекки Куанг экранизируют](https://kudago.com/all/news/jelloufejs-rebekki-kuang-ekraniziruyut/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
+
 
+### В новом трейлере «Моаны 2» герои противостоят богине
+**№:** 45
 
-### Группа «Сироткин» запишет совместный трек с начинающим артистом
-**Id:** 51390
+**Id:** 51659
 
 **Place:** Place is undefined
 
 
-**Description:** Выбрать счастливчика поможет ряд заданий.
+**Description:** Их цель — снять проклятие.
 
 
-**Site url:** [Группа «Сироткин» запишет совместный трек с начинающим артистом](https://kudago.com/all/news/gruppa-sirotkin-zapishet/)
+**Site url:** [В новом трейлере «Моаны 2» герои противостоят богине](https://kudago.com/all/news/v-novom-trejlere-moanyi-2-geroi/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
 
 
-### В Петербурге начинает холодать
-**Id:** 51389
+### Объявлена дата премьеры экранизации «Ста лет одиночества»
+**№:** 46
 
+**Id:** 51657
+
 **Place:** Place is undefined
 
 
-**Description:** Однако осадков метеорологи не обещают.
+**Description:** Первый сезон покажут в декабре.
 
 
-**Site url:** [В Петербурге начинает холодать](https://kudago.com/spb/news/v-peterburge-nachinaet-holodat/)
+**Site url:** [Объявлена дата премьеры экранизации «Ста лет одиночества»](https://kudago.com/all/news/data-premery-sto-let-odinochestva/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-16
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
+
 
+### Сад-трансформер на Исаакиевской площади демонтировали
+**№:** 47
 
-### Стали известны лауреаты Шнобелевской премии
-**Id:** 51382
+**Id:** 51655
 
 **Place:** Place is undefined
 
 
-**Description:** Её вручают в 34-й раз.
+**Description:** Деревья и кусты высадят в парках города.
 
 
-**Site url:** [Стали известны лауреаты Шнобелевской премии](https://kudago.com/all/news/stali-izvestnyi-laureatyi/)
+**Site url:** [Сад-трансформер на Исаакиевской площади демонтировали](https://kudago.com/spb/news/sad-transformer-na-isaakievskoj/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
 
 
-### Несмотря на засуху, грибники несут из леса полные корзины
-**Id:** 51381
+### В Петербурге могут ввести бесплатный день для посещения музеев раз в месяц
+**№:** 48
 
+**Id:** 51656
+
 **Place:** Place is undefined
 
 
-**Description:** А ещё в Ленобласти появилась клюква.
+**Description:** Культурный досуг должен стать доступнее.
 
 
-**Site url:** [Несмотря на засуху, грибники несут из леса полные корзины](https://kudago.com/spb/news/nesmotrya-na-zasuhu-gribniki/)
+**Site url:** [В Петербурге могут ввести бесплатный день для посещения музеев раз в месяц](https://kudago.com/spb/news/besplatnyj-den-dlya-posesheniya-muzeev-peterburg/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
 
 
-### Опубликован тизер шоу про юного Декстера
-**Id:** 51380
+### Кронверкский мост у Петропавловской крепости закрыли на ремонт
+**№:** 49
 
+**Id:** 51654
+
 **Place:** Place is undefined
 
 
-**Description:** Премьера — зимой.
+**Description:** Он закончится в следующем году.
 
 
-**Site url:** [Опубликован тизер шоу про юного Декстера](https://kudago.com/all/news/opublikovan-tizer-shou-pro-yunogo/)
+**Site url:** [Кронверкский мост у Петропавловской крепости закрыли на ремонт](https://kudago.com/spb/news/kronverkskij-most-u/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
+
 
+### Ветер крепчает в Петербурге
+**№:** 50
 
-### Худеющий кот Крошик хотел сбежать из реабилитационного центра
-**Id:** 51383
+**Id:** 51652
 
 **Place:** Place is undefined
 
 
-**Description:** Но застрял.
+**Description:** Об этом горожан предупреждает МЧС.
 
 
-**Site url:** [Худеющий кот Крошик хотел сбежать из реабилитационного центра](https://kudago.com/all/news/hudeyuschij-kot-kroshik-hotel/)
+**Site url:** [Ветер крепчает в Петербурге](https://kudago.com/spb/news/veter-krepchaet-v-peterburge/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-09
 
 **Rating:** 0.5
 
 
-### Август 2024 года стал самым жарким в истории наблюдений
-**Id:** 51379
+### Сотни гусиных стай сейчас пролетают над Петербургом
+**№:** 51
 
+**Id:** 51649
+
 **Place:** Place is undefined
 
 
-**Description:** Синоптики предсказывают новые температурные рекорды.
+**Description:** Они направляются на юг.
 
 
-**Site url:** [Август 2024 года стал самым жарким в истории наблюдений](https://kudago.com/all/news/avgust-2024-goda-stal-samyim/)
+**Site url:** [Сотни гусиных стай сейчас пролетают над Петербургом](https://kudago.com/spb/news/sotni-gusinyih-staj-sejchas/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
+
 
+### Турецкие пастухи требуют от фермеров оплачивать интернет для просмотра TikTok
+**№:** 52
 
-### На Парашютной снова пасутся чёрные свиньи
-**Id:** 51378
+**Id:** 51647
 
 **Place:** Place is undefined
 
 
-**Description:** Сначала их приняли за кабанов.
+**Description:** Работодатели соглашаются на их условия.
 
 
-**Site url:** [На Парашютной снова пасутся чёрные свиньи](https://kudago.com/spb/news/na-parashyutnoj-snova-pasutsya/)
+**Site url:** [Турецкие пастухи требуют от фермеров оплачивать интернет для просмотра TikTok](https://kudago.com/all/news/turetskie-pastuhi-trebuyut-ot/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
 
 
-### «Аэрофлот» запускает рейсы между Петербургом и Бангкоком
-**Id:** 51377
+### В Ленобласти спасли раненого лебедя
+**№:** 53
 
+**Id:** 51645
+
 **Place:** Place is undefined
 
 
-**Description:** А ещё из Пулкова станут чаще летать в Тунис.
+**Description:** Он идёт на поправку.
 
 
-**Site url:** [«Аэрофлот» запускает рейсы между Петербургом и Бангкоком](https://kudago.com/spb/news/aeroflot-zapuskaet-rejsyi-mezhdu/)
+**Site url:** [В Ленобласти спасли раненого лебедя](https://kudago.com/spb/news/v-lenoblasti-spasli-ranenogo/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
+
 
+### В Петербурге идёт установка видеокамер на детских и спортивных площадках
+**№:** 54
 
-### Над Подмосковьем и Ленобластью наблюдали северное сияние
-**Id:** 51376
+**Id:** 51644
 
 **Place:** Place is undefined
 
 
-**Description:** В выходные есть шанс на повторение небесного шоу.
+**Description:** Оснастить планируют свыше 300 объектов.
 
 
-**Site url:** [Над Подмосковьем и Ленобластью наблюдали северное сияние](https://kudago.com/all/news/nad-podmoskovem-i-lenoblastyu/)
+**Site url:** [В Петербурге идёт установка видеокамер на детских и спортивных площадках](https://kudago.com/spb/news/v-peterburge-idyot-ustanovka/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
 
 
-### В Петербурге объявили оранжевый уровень опасности из-за жары
-**Id:** 51375
+### Трамваи вернулись на Косую линию и Детскую улицу в Петербурге
+**№:** 55
 
+**Id:** 51641
+
 **Place:** Place is undefined
 
 
-**Description:** В Ленобласти ситуация не лучше.
+**Description:** Их трассы меняли из-за строительства продолжения оранжевой линии подземки.
 
 
-**Site url:** [В Петербурге объявили оранжевый уровень опасности из-за жары](https://kudago.com/spb/news/v-peterburge-obyavili-oranzhevyij-uroven-opasnosti-iz-za-zhary/)
+**Site url:** [Трамваи вернулись на Косую линию и Детскую улицу в Петербурге](https://kudago.com/spb/news/tramvai-vernulis-na-kosuyu-liniyu/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-13
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
 
 
-### В Новгороде нашли берестяную грамоту с пожеланием удавиться
-**Id:** 51372
+### Москва возглавила рейтинг самых матерящихся городов страны
+**№:** 56
 
+**Id:** 51643
+
 **Place:** Place is undefined
 
 
-**Description:** Сообщению около 900 лет.
+**Description:** Столица опустилась ниже Дна.
 
 
-**Site url:** [В Новгороде нашли берестяную грамоту с пожеланием удавиться](https://kudago.com/all/news/v-novgorode-nashli-berestyanuyu/)
+**Site url:** [Москва возглавила рейтинг самых матерящихся городов страны](https://kudago.com/all/news/moskva-vozglavila-rejting-samyih/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
+
 
+### Эрмитаж откроет филиал в Приморье
+**№:** 57
 
-### Музей-усадьба художника Ильи Репина закрывается на реставрацию
-**Id:** 51371
+**Id:** 51640
 
 **Place:** Place is undefined
 
 
-**Description:** Работы продлятся почти два года.
+**Description:** Через три года.
 
 
-**Site url:** [Музей-усадьба художника Ильи Репина закрывается на реставрацию](https://kudago.com/spb/news/muzej-usadba-hudozhnika-ili/)
+**Site url:** [Эрмитаж откроет филиал в Приморье](https://kudago.com/spb/news/ermitazh-otkroet-filial-v/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
 
 
-### У станции «Рыбацкое» построят перехватывающую парковку
-**Id:** 51368
+### В Петербурге тестируют новый электробус
+**№:** 58
 
+**Id:** 51638
+
 **Place:** Place is undefined
 
 
-**Description:** Идёт поиск исполнителя.
+**Description:** После окончания испытаний будет принято решение о покупке.
 
 
-**Site url:** [У станции «Рыбацкое» построят перехватывающую парковку](https://kudago.com/spb/news/u-metro-ryibatskoe-postroyat/)
+**Site url:** [В Петербурге тестируют новый электробус](https://kudago.com/spb/news/v-peterburge-testiruyut-novyij/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-08
 
 **Rating:** 0.5
+
 
+### Нейросеть помогла сделать трейлер игровой версии «Принцессы Мононоке»
+**№:** 59
 
-### Майкл Б. Джордан снимет свою версию «Аферы Томаса Крауна»
-**Id:** 51367
+**Id:** 51634
 
 **Place:** Place is undefined
 
 
-**Description:** И исполнит в ней главную роль.
+**Description:** Его создание обошлось в 745 долларов.
 
 
-**Site url:** [Майкл Б. Джордан снимет свою версию «Аферы Томаса Крауна»](https://kudago.com/all/news/majkl-b-dzhordan-snimet-svoyu/)
+**Site url:** [Нейросеть помогла сделать трейлер игровой версии «Принцессы Мононоке»](https://kudago.com/all/news/nejroset-pomogla-sozdat/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-07
 
 **Rating:** 0.5
 
 
-### Обновленную экспозицию петербургского Центра культурного наследия представят в октябре
-**Id:** 51364
+### Кровавое боди: рецензия на фильм «Субстанция»
+**№:** 60
 
+**Id:** 51563
+
 **Place:** Place is undefined
 
 
-**Description:** Также в музейно-просветительском пространстве появился аудиогид.
+**Description:** До российского проката добралась «Субстанция» — боди-хоррор, получивший на Каннском фестивале приз за лучший сценарий. Каким получился обласканный критиками кровавый аттракцион об одержимости красотой и молодостью читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
 
 
-**Site url:** [Обновленную экспозицию петербургского Центра культурного наследия представят в октябре](https://kudago.com/spb/news/obnovlennuyu-ekspozitsiyu/)
+**Site url:** [Кровавое боди: рецензия на фильм «Субстанция»](https://kudago.com/all/news/recenziya-na-film-substanciya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-01
 
 **Rating:** 0.5
+
 
+### Пользователи ВКонтакте могут научиться грамотному общению с глухими и слабослышащими людьми
+**№:** 61
 
-### В Петербурге показали, какими должны быть козырьки для внутренних дворов
-**Id:** 51361
+**Id:** 51574
 
 **Place:** Place is undefined
 
 
-**Description:** В разработке образцов участвовал КГИОП.
+**Description:** Соцсеть научит общаться на жестовом языке.
 
 
-**Site url:** [В Петербурге показали, какими должны быть козырьки для внутренних дворов](https://kudago.com/spb/news/v-peterburge-pokazali-kakimi/)
+**Site url:** [Пользователи ВКонтакте могут научиться грамотному общению с глухими и слабослышащими людьми](https://kudago.com/all/news/polzovateli-vkontakte-mogut/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-01
 
 **Rating:** 0.5
 
 
-### Сладкий вкус справедливости: рецензия на фильм «Револьвер»
-**Id:** 51362
+### Лили-Роуз Депп мучают кошмары в ещё одном трейлере «Носферату»
+**№:** 62
 
+**Id:** 51572
+
 **Place:** Place is undefined
 
 
-**Description:** Кинопрокатная компания «Про:Взгляд» регулярно приносит на российские экраны жемчужины кинематографа со всего мира. В этот раз прокатчик удивляет отборным южнокорейским кино с мрачной атмосферой и медитативным развитием сюжета. Кроме того, в главных ролях наверняка знакомые российскому зрителю лица — лауреатка Каннского кинофестиваля Чон До Ён, Чи Чхан Ук из «Большего зла» и Ли Джон Джэ из «Игры в кальмара». Какой получилась криминальная драма, читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+**Description:** Романтичный ужастик выйдет в мировой прокат в декабре.
 
 
-**Site url:** [Сладкий вкус справедливости: рецензия на фильм «Револьвер»](https://kudago.com/all/news/retsenziya-na-film-revolver/)
+**Site url:** [Лили-Роуз Депп мучают кошмары в ещё одном трейлере «Носферату»](https://kudago.com/all/news/lili-rouz-depp-muchayut-koshmaryi-v/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-01
 
 **Rating:** 0.5
 
 
-### В России могут организовать посадку на поезд по биометрии
-**Id:** 51358
+### «Ночлежка» собирает зонтики и дождевики
+**№:** 63
 
+**Id:** 51571
+
 **Place:** Place is undefined
 
 
-**Description:** Не придётся показывать документы или билет.
+**Description:** Нужно успеть помочь подопечным до начала затяжных ливней.
 
 
-**Site url:** [В России могут организовать посадку на поезд по биометрии](https://kudago.com/all/news/v-rossii-mogut-organizovat/)
+**Site url:** [«Ночлежка» собирает зонтики и дождевики](https://kudago.com/all/news/nochlezhka-sobiraet-zontiki-i/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-01
 
 **Rating:** 0.5
+
 
+### Россия попала в тройку лидеров по уровню близорукости детей и подростков
+**№:** 64
 
-### Авиарейсы из Петербурга в Дубай станут ежедневными
-**Id:** 51359
+**Id:** 51570
 
 **Place:** Place is undefined
 
 
-**Description:** Время полёта — семь часов.
+**Description:** От миопии страдает 46% молодого населения страны.
 
 
-**Site url:** [Авиарейсы из Петербурга в Дубай станут ежедневными](https://kudago.com/spb/news/aviarejsyi-iz-peterburga-v-dubaj/)
+**Site url:** [Россия попала в тройку лидеров по уровню близорукости детей и подростков](https://kudago.com/all/news/rossiya-popala-v-trojku-liderov/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-10-01
 
 **Rating:** 0.5
 
 
-### Первая декада сентября выдалась в Петербурге аномально солнечной
-**Id:** 51357
+### Материнский капитал могут увеличить в следующем году
+**№:** 65
 
+**Id:** 51564
+
 **Place:** Place is undefined
 
 
-**Description:** Вторая будет не хуже.
+**Description:** Траты на детей растут из-за инфляции.
 
 
-**Site url:** [Первая декада сентября выдалась в Петербурге аномально солнечной](https://kudago.com/spb/news/pervaya-dekada-sentyabrya-vyidalas/)
+**Site url:** [Материнский капитал могут увеличить в следующем году](https://kudago.com/all/news/materinskij-kapital-mogut/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-09-30
 
 **Rating:** 0.5
+
 
+### Журналы, где впервые опубликовали главы «Белой гвардии», продали на аукционе за 850 000 рублей
+**№:** 66
 
-### Вышла аудиоверсия книги «Канашибари. Пока не погаснет последний фонарь. Том II»
-**Id:** 51354
+**Id:** 51562
 
 **Place:** Place is undefined
 
 
-**Description:** Герои снова проверяют себя на прочность в мрачных испытаниях.
+**Description:** Выпуски датированы 1925 годом.
 
 
-**Site url:** [Вышла аудиоверсия книги «Канашибари. Пока не погаснет последний фонарь. Том II»](https://kudago.com/all/news/vyishla-audioversiya-knigi/)
+**Site url:** [Журналы, где впервые опубликовали главы «Белой гвардии», продали на аукционе за 850 000 рублей](https://kudago.com/all/news/zhurnalyi-gde-vpervyie/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-09-30
 
 **Rating:** 0.5
 
 
-### В Выборге законсервируют средневековый собор
-**Id:** 51355
+### Активисты вновь облили супом «Подсолнухи» Ван Гога
+**№:** 67
 
+**Id:** 51561
+
 **Place:** Place is undefined
 
 
-**Description:** Его руины станут частью общественного пространства.
+**Description:** В этот день их «коллег» наказали за такую же акцию двухлетней давности.
 
 
-**Site url:** [В Выборге законсервируют средневековый собор](https://kudago.com/spb/news/v-vyiborge-zakonserviruyut-srednevekovyj-sobor/)
+**Site url:** [Активисты вновь облили супом «Подсолнухи» Ван Гога](https://kudago.com/all/news/aktivistyi-vnov-oblili-supom/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-12
+**Publication date:** 2024-09-30
 
 **Rating:** 0.5
+
 
+### 80-летняя кореянка может стать старейшей участницей конкурса «Мисс Вселенная»
+**№:** 68
 
-### Эрмитаж отменит плату за вход на три дня
-**Id:** 51352
+**Id:** 51560
 
 **Place:** Place is undefined
 
 
-**Description:** Но только по вечерам.
+**Description:** Она прошла в финал национального этапа.
 
 
-**Site url:** [Эрмитаж отменит плату за вход на три дня](https://kudago.com/spb/news/besplatnyj-vhod-v-ermitazh-po-vecheram/)
+**Site url:** [80-летняя кореянка может стать старейшей участницей конкурса «Мисс Вселенная»](https://kudago.com/all/news/80-letnyaya-koreyanka-mozhet-stat/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-30
 
 **Rating:** 0.5
 
 
-### Вышел трейлер байопика о Дональде Трампе
-**Id:** 51351
+### В петербургских отделениях «Ночлежки» ввели женский день для посещения душевых
+**№:** 69
 
+**Id:** 51558
+
 **Place:** Place is undefined
 
 
-**Description:** В ленте расскажут о молодости будущего президента США.
+**Description:** Пункты принимают только клиенток каждый четверг.
 
 
-**Site url:** [Вышел трейлер байопика о Дональде Трампе](https://kudago.com/all/news/trejler-bajopika-o-donalde-trampe/)
+**Site url:** [В петербургских отделениях «Ночлежки» ввели женский день для посещения душевых](https://kudago.com/spb/news/v-peterburgskih-otdeleniyah/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-30
 
 **Rating:** 0.5
+
 
+### Специальную серию «Подорожников» посвятят Дню пожилого человека
+**№:** 70
 
-### Новая культура зовёт: гид по кинофестивалю Beat Weekend 2024
-**Id:** 51318
+**Id:** 51557
 
 **Place:** Place is undefined
 
 
-**Description:** С 12 по 22 сентября в 27 городах России пройдёт фестиваль документального кино о новой культуре Beat Weekend. Вот уже несколько лет создатели фестиваля собирают региональную спецпрограмму, куда входят лучшие показы московского Beat Film Festival. Этот год не стал исключением, и авторам есть чем удивить поклонников документального кино. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+**Description:** Тираж карт ограничен.
 
 
-**Site url:** [Новая культура зовёт: гид по кинофестивалю Beat Weekend 2024](https://kudago.com/all/news/gid-po-kinofestivalyu-beat-weekend-2024/)
+**Site url:** [Специальную серию «Подорожников» посвятят Дню пожилого человека](https://kudago.com/spb/news/spetsialnuyu-seriyu-podorozhnikov/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-30
 
 **Rating:** 0.5
 
 
-### Опубликован новый трейлер мультфильма «Дикий робот»
-**Id:** 51349
+### Стало известно, кто сыграет в ремейке фильма «Москва слезам не верит»
+**№:** 71
 
+**Id:** 51552
+
 **Place:** Place is undefined
 
 
-**Description:** Мировая премьера — в конце сентября.
+**Description:** Действие перенесут в современность.
 
 
-**Site url:** [Опубликован новый трейлер мультфильма «Дикий робот»](https://kudago.com/all/news/trejler-multfilma-dikij-robot/)
+**Site url:** [Стало известно, кто сыграет в ремейке фильма «Москва слезам не верит»](https://kudago.com/all/news/kto-sygraet-v-remejke-filma-moskva-slezam-ne-verit/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
+
 
+### The Cure выпустили сингл после 16 лет молчания
+**№:** 72
 
-### В России могут запретить квадроберов
-**Id:** 51345
+**Id:** 51551
 
 **Place:** Place is undefined
 
 
-**Description:** Подражание животным опасно для подростков и их окружения, считают инициаторы идеи.
+**Description:** Скоро состоится премьера нового альбома.
 
 
-**Site url:** [В России могут запретить квадроберов](https://kudago.com/all/news/v-rossii-mogut-zapretit/)
+**Site url:** [The Cure выпустили сингл после 16 лет молчания](https://kudago.com/all/news/the-cure-vyipustili-singl-posle/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
 
 
-### Стала известна стоимость проезда по ВСМ
-**Id:** 51346
+### Умерла Мэгги Смит, сыгравшая Минерву МакГонагалл в фильмах о Гарри Поттере
+**№:** 73
 
+**Id:** 51550
+
 **Place:** Place is undefined
 
 
-**Description:** Ввод в эксплуатацию намечен через четыре года.
+**Description:** Палочки вверх!
 
 
-**Site url:** [Стала известна стоимость проезда по ВСМ](https://kudago.com/all/news/stala-izvestna-stoimost-proezda-po-vcm/)
+**Site url:** [Умерла Мэгги Смит, сыгравшая Минерву МакГонагалл в фильмах о Гарри Поттере](https://kudago.com/all/news/umerla-meggi-smit-syigravshaya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
+
 
+### Появился первый трейлер спин-оффа «Джона Уика» с Аной де Армас
+**№:** 74
 
-### Из Финского залива подняли обломки советского самолёта времён ВОВ
-**Id:** 51342
+**Id:** 51549
 
 **Place:** Place is undefined
 
 
-**Description:** Они станут экспонатами музея.
+**Description:** Неонуарный экшен появится на экранах летом.
 
 
-**Site url:** [Из Финского залива подняли обломки советского самолёта времён ВОВ](https://kudago.com/spb/news/iz-finskogo-zaliva-podnyali/)
+**Site url:** [Появился первый трейлер спин-оффа «Джона Уика» с Аной де Армас](https://kudago.com/all/news/pervyj-trejler-spin-offa-dzhona-uika/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
 
 
-### На трассе М-11 хотят сделать музыкальную разметку
-**Id:** 51343
+### Вышел тизер грядущего сезона «Одни из нас»
+**№:** 75
 
+**Id:** 51546
+
 **Place:** Place is undefined
 
 
-**Description:** Она помогает водителям следить за расстоянием до обочины.
+**Description:** Для публикации выбрали особую дату.
 
 
-**Site url:** [На трассе М-11 хотят сделать музыкальную разметку](https://kudago.com/all/news/na-trasse-m-11-hotyat-sdelat/)
+**Site url:** [Вышел тизер грядущего сезона «Одни из нас»](https://kudago.com/all/news/vyishel-tizer-gryaduschego-sezona/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
+
 
+### Турок в Петербурге: Алперен о гопниках, пасхальных куличах и советских артефактах
+**№:** 76
 
-### Мир искусства: 3 канала в VK Видео для вдохновения и творчества
-**Id:** 51317
+**Id:** 51548
 
 **Place:** Place is undefined
 
 
-**Description:** Узнайте больше о мире искусства и расширяйте свои горизонты! KudaGo и VK Видео выбрали для вас видеоблоги, где искусство становится доступным каждому. Здесь можно познакомиться с выдающимися произведениями, узнать много нового от экспертов в сфере культуры и получить заряд вдохновения для собственного творчества.
+**Description:** Мы продолжаем знакомиться с иностранцами, живущими в городе на Неве. Наш сегодняшний герой — Алперен из Анкары. Поговорили о студне, бумажной волоките и русском юморе.
 
 
-**Site url:** [Мир искусства: 3 канала в VK Видео для вдохновения и творчества](https://kudago.com/all/news/mir-iskusstva-3-kanala-v-vk/)
+**Site url:** [Турок в Петербурге: Алперен о гопниках, пасхальных куличах и советских артефактах](https://kudago.com/spb/news/turok-v-peterburge/)
 
 **Favorites:** 1
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.7310585786300049
 
 
-### Пулково запускает бесплатный шаттл до терминала
-**Id:** 51341
+### У фильма про Марию Каллас с Анджелиной Джоли появился первый тизер
+**№:** 77
+
+**Id:** 51544
 
 **Place:** Place is undefined
 
 
-**Description:** Он  будет курсировать по ночам.
+**Description:** На Венецианском кинофестивале картину встретили овациями.
 
 
-**Site url:** [Пулково запускает бесплатный шаттл до терминала](https://kudago.com/spb/news/pulkovo-zapuskaet-besplatnyj-shattl-do-terminala/)
+**Site url:** [У фильма про Марию Каллас с Анджелиной Джоли появился первый тизер](https://kudago.com/all/news/u-filma-pro-mariyu-kallas-s/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
 
 
-### В Финском заливе заметили белых цапель
-**Id:** 51340
+### Ефим Шифрин рассказал о работе над фильмом «Возвращение попугая Кеши»
+**№:** 78
+
+**Id:** 51547
 
 **Place:** Place is undefined
 
 
-**Description:** Они охотились рядом с дамбой.
+**Description:** Артист поделился секретом съёмок с животными.
 
 
-**Site url:** [В Финском заливе заметили белых цапель](https://kudago.com/spb/news/v-finskom-zalive-zametili-belyih/)
+**Site url:** [Ефим Шифрин рассказал о работе над фильмом «Возвращение попугая Кеши»](https://kudago.com/all/news/efim-shifrin-rasskazal-o-rabote/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-11
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
 
 
-### Перфекционизм и чёрный юмор — что объединяет фильмы Стэнли Кубрика
-**Id:** 31702
+### В Калининском районе заметили ястреба
+**№:** 79
+
+**Id:** 51542
 
 **Place:** Place is undefined
 
 
-**Description:** Стэнли Кубрик по праву считается одним из самых значимых режиссёров мирового кинематографа. Он получил признание ещё при жизни, и до сих пор его фильмы пользуются огромной популярностью. «Сияние», «Заводной апельсин», «Цельнометаллическая оболочка» — каждая из его 13 картин самобытна и не похожа на другие. Однако даже у такого многогранного автора есть чёткая методология, которая прослеживается в каждой работе. Мы решили вспомнить, что объединяет картины гениального режиссёра. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+**Description:** Он обедал.
 
 
-**Site url:** [Перфекционизм и чёрный юмор — что объединяет фильмы Стэнли Кубрика](https://kudago.com/all/news/absolyutnyij-perfektsionizm-i/)
-
-**Favorites:** 3
-
-**Comments:** 0
-
-**Publication date:** 2024-09-10
-
-**Rating:** 0.9525741268224334
-
-
-### Стартовал кастинг для нового сериала про Гарри Поттера
-**Id:** 51336
-
-**Place:** Place is undefined
-
-
-**Description:** Исполнителей ищут в Британии и Ирландии.
-
-
-**Site url:** [Стартовал кастинг для нового сериала про Гарри Поттера](https://kudago.com/all/news/startoval-kasting-dlya-novogo/)
+**Site url:** [В Калининском районе заметили ястреба](https://kudago.com/spb/news/v-kalininskom-rajone-zametili-yastreba/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-27
 
 **Rating:** 0.5
 
 
-### Стало известно, кто снимет четвёртого «Человека-паука»
-**Id:** 51335
+### История как на ладони: 3 канала в VK Видео, которые оживляют прошлое
+**№:** 80
+
+**Id:** 51505
 
 **Place:** Place is undefined
 
 
-**Description:** Стороны ведут переговоры.
+**Description:** Изучение истории может быть по-настоящему захватывающим и интерактивным процессом. KudaGo и VK Видео собрали для вас интересные исторические видеоблоги, где можно найти разборы мифов и легенд, реконструкцию событий и анализ малоизвестных фактов, которые помогают по-новому взглянуть на различные исторические моменты.
 
 
-**Site url:** [Стало известно, кто снимет четвёртого «Человека-паука»](https://kudago.com/all/news/kto-snimet-chetvertogo-cheloveka-pauka/)
+**Site url:** [История как на ладони: 3 канала в VK Видео, которые оживляют прошлое](https://kudago.com/all/news/istoriya-kak-na-ladoni-3-kanala/)
+
+**Favorites:** 1
+
+**Comments:** 0
+
+**Publication date:** 2024-09-25
+
+**Rating:** 0.7310585786300049
+
+
+### Вышел тизер-трейлер спин-оффа «Головоломки»
+**№:** 81
+
+**Id:** 51516
+
+**Place:** Place is undefined
+
+
+**Description:** Премьера состоится в декабре.
+
+
+**Site url:** [Вышел тизер-трейлер спин-оффа «Головоломки»](https://kudago.com/all/news/tizer-trejler-spin-offa-golovolomki/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-25
 
 **Rating:** 0.5
 
 
-### В Пушкине реставрируют старинный вокзал
-**Id:** 51333
+### Фотография души: почему стоит посетить новое шоу Ленинград Центра
+**№:** 82
 
-**Place:** Place is undefined
+**Id:** 51515
+
+**Place:** шоу-пространство Ленинград Центр
 
 
-**Description:** Работы планируют завершить до конца года.
+**Description:** В честь 10-летия Ленинград Центра на его сцене премьера 2024 года — шоу «Коллекционер. Фотоувеличение». Это путешествие в мир фотографии, любви, красоты и силы человеческого тела, многогранности танцевального искусства. Это рассказ о том, что снимок — не просто фиксация момента из жизни, но всегда история, которая не заканчивается за щелчком затвора.
 
 
-**Site url:** [В Пушкине реставрируют старинный вокзал](https://kudago.com/spb/news/v-pushkine-restavriruyut-vokzal/)
+**Site url:** [Фотография души: почему стоит посетить новое шоу Ленинград Центра](https://kudago.com/spb/news/fotografiya-dushi-pochemu-stoit/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-25
 
 **Rating:** 0.5
 
 
-### Создатели нового фильма «Буратино» запустили масштабный кастинг
-**Id:** 51334
+### Нейросеть перерисовала героев «Простоквашино» в стиле Миядзаки
+**№:** 83
+
+**Id:** 51514
 
 **Place:** Place is undefined
 
 
-**Description:** Любой желающий может стать частью актёрской команды.
+**Description:** Комментаторы отмечают похорошевшего Шарика.
 
 
-**Site url:** [Создатели нового фильма «Буратино» запустили масштабный кастинг](https://kudago.com/all/news/kasting-v-buratino/)
+**Site url:** [Нейросеть перерисовала героев «Простоквашино» в стиле Миядзаки](https://kudago.com/all/news/nejroset-pererisovala-geroev/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-25
 
 **Rating:** 0.5
 
 
-### В центре Петербурга запретят проезд и парковку
-**Id:** 51330
+### У Биржевого моста открыли пешеходный тоннель с подогревом
+**№:** 84
+
+**Id:** 51512
 
 **Place:** Place is undefined
 
 
-**Description:** Все ограничения снимут только 22 сентября.
+**Description:** Он предотвращает образование наледи.
 
 
-**Site url:** [В центре Петербурга запретят проезд и парковку](https://kudago.com/spb/news/v-tsentre-peterburga-zapretyat/)
+**Site url:** [У Биржевого моста открыли пешеходный тоннель с подогревом](https://kudago.com/spb/news/u-birzhevogo-mosta-otkryili/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-25
 
 **Rating:** 0.5
 
 
-### «Победа» анонсировала распродажу билетов
-**Id:** 51331
+### В Санкт-Петербурге открылся сказочный музей «Небылица-Водица»
+**№:** 85
+
+**Id:** 51504
 
 **Place:** Place is undefined
 
 
-**Description:** Скидки на все направления.
+**Description:** В нём обитают волшебные герои из подводного царства.
 
 
-**Site url:** [«Победа» анонсировала распродажу билетов](https://kudago.com/all/news/pobeda-anonsirovala-rasprodazhu/)
+**Site url:** [В Санкт-Петербурге открылся сказочный музей «Небылица-Водица»](https://kudago.com/spb/news/v-sankt-peterburge-otkryilsya-24-09-2024/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-25
 
 **Rating:** 0.5
 
 
-### Названы станции метро Петербурга, где будут тестировать оплату по биометрии
-**Id:** 51327
+### Опубликован список городов с самыми красивыми закатами
+**№:** 86
+
+**Id:** 51508
 
 **Place:** Place is undefined
 
 
-**Description:** Первыми новую технологию опробуют сотрудники подземки.
+**Description:** Российских городов в нём нет.
 
 
-**Site url:** [Названы станции метро Петербурга, где будут тестировать оплату по биометрии](https://kudago.com/spb/news/testirovat-oplatu-po-biometrii/)
+**Site url:** [Опубликован список городов с самыми красивыми закатами](https://kudago.com/all/news/opublikovan-spisok-gorodov-s/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### Linkin Park: легендарная группа в цифрах
-**Id:** 51320
+### В Московской и Ленинградской областях проверят системы экстренного оповещения
+**№:** 87
+
+**Id:** 51509
 
 **Place:** Place is undefined
 
 
-**Description:** На прошлой неделе группа Linkin Park объявила о возвращении на сцену, гастрольном туре и грядущем выпуске очередного альбома. Состав команды пополнился новыми участниками — и теперь готов к покорению новых высот!
+**Description:** Систему тестируют несколько раз в год.
 
 
-**Site url:** [Linkin Park: легендарная группа в цифрах](https://kudago.com/all/news/linkin-park-v-tsifrah/)
-
-**Favorites:** 2
-
-**Comments:** 0
-
-**Publication date:** 2024-09-10
-
-**Rating:** 0.8807970779778823
-
-
-### В Петербурге заметили уличное пианино
-**Id:** 51326
-
-**Place:** Place is undefined
-
-
-**Description:** На нём просят не играть ночью.
-
-
-**Site url:** [В Петербурге заметили уличное пианино](https://kudago.com/spb/news/v-peterburge-zametili-ulichnoe-pianino/)
+**Site url:** [В Московской и Ленинградской областях проверят системы экстренного оповещения](https://kudago.com/all/news/proverka-sistem-ekstrennogo-opovesheniya-moskva-peterburg/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### Apple провела презентацию новинок 2024 года
-**Id:** 51325
+### Марго Робби и Джейкоб Элорди сыграют в новой версии «Грозового перевала»
+**№:** 88
+
+**Id:** 51507
 
 **Place:** Place is undefined
 
 
-**Description:** Покупателям представили улучшенные модели смартфонов, часов и наушников.
+**Description:** Съёмки начнутся в следующем году.
 
 
-**Site url:** [Apple провела презентацию новинок 2024 года](https://kudago.com/all/news/apple-provela-prezentatsiyu/)
+**Site url:** [Марго Робби и Джейкоб Элорди сыграют в новой версии «Грозового перевала»](https://kudago.com/all/news/margo-robbi-i-dzhejkob-elordi/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### В Удельном парке белки устраивают грибной дождь
-**Id:** 51324
+### По мотивам «Друзей» выйдет телевикторина
+**№:** 89
+
+**Id:** 51502
 
 **Place:** Place is undefined
 
 
-**Description:** Особую осторожность следует проявлять в районе дубовой поляны.
+**Description:** В честь юбилея сериала.
 
 
-**Site url:** [В Удельном парке белки устраивают грибной дождь](https://kudago.com/spb/news/posetitelej-udelnogo-parka/)
+**Site url:** [По мотивам «Друзей» выйдет телевикторина](https://kudago.com/all/news/po-motivam-druzej-vyipustyat/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### Новая экотропа появилась в Ленобласти
-**Id:** 51322
+### Идёт работа над мультсериалом про Чебурашку
+**№:** 90
+
+**Id:** 51500
 
 **Place:** Place is undefined
 
 
-**Description:** Её обустройство заняло год.
+**Description:** Он выйдет в следующем году.
 
 
-**Site url:** [Новая экотропа появилась в Ленобласти](https://kudago.com/spb/news/novaya-ekotropa-poyavilas-v-lenoblasti/)
+**Site url:** [Идёт работа над мультсериалом про Чебурашку](https://kudago.com/all/news/idyot-rabota-nad-multserialom/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-10
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### В Ленобласти пожарные спасли пса из люка коллектора
-**Id:** 51316
+### Утопия по-русски: рецензия на сериал «Исправление и наказание»
+**№:** 91
+
+**Id:** 51503
 
 **Place:** Place is undefined
 
 
-**Description:** Он угодил в ловушку, когда вышел на утреннюю пробежку.
+**Description:** С 16 сентября на телеканале ТНТ стартовал второй сезон сериала «Исправление и наказание» с Анной Михалковой в главной роли. Фанаты комедии ждали продолжения истории два года. В новых сериях курс всё также взят на любовь и юмор. Каким обещает быть развитие сериала — читайте в нашей рецензии. Ещё больше материалов ищите в разделе о кино.
 
 
-**Site url:** [В Ленобласти пожарные спасли пса из люка коллектора](https://kudago.com/spb/news/v-lenoblasti-pozharnyie-spasli-psa/)
+**Site url:** [Утопия по-русски: рецензия на сериал «Исправление и наказание»](https://kudago.com/all/news/utopiya-po-russki-recenziya-na-serial-ispravlenie-i-nakazanie/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-09
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### В Адыгее сплели самую длинную в истории  России сырную косу
-**Id:** 51314
+### Социальный хоррор: рецензия на фильм «Холли»
+**№:** 92
+
+**Id:** 51468
 
 **Place:** Place is undefined
 
 
-**Description:** Её изготовили во время гастрономического фестиваля.
+**Description:** До российского проката добралось неторопливое и пугающее кино бельгийки Фин Трох. Лента была показана в основном конкурсе 80-го Венецианского кинофестиваля, а затем на кинофестивале VOICES в Вологде. На большие экраны картину привезла кинопрокатная компания Arthouse, которая старается удивлять российского зрителя свежими арт-новинками. И «Холли» не исключение. Подробнее о фильме читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
 
 
-**Site url:** [В Адыгее сплели самую длинную в истории  России сырную косу](https://kudago.com/all/news/samaya-dlinnaya-syrnaya-kosa-rossii/)
+**Site url:** [Социальный хоррор: рецензия на фильм «Холли»](https://kudago.com/all/news/retsenziya-na-film-holli/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-09
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### «Сёгун» установил рекорд по числу выигранных Creative Arts Emmys
-**Id:** 51312
+### На «Балтийской» отремонтируют путевые стены
+**№:** 93
+
+**Id:** 51498
 
 **Place:** Place is undefined
 
 
-**Description:** Также награда досталась Джейми Ли Кёртис.
+**Description:** Закрывать станцию не будут.
 
 
-**Site url:** [«Сёгун» установил рекорд по числу выигранных Creative Arts Emmys](https://kudago.com/all/news/syogun-ustanovil-rekord-po/)
+**Site url:** [На «Балтийской» отремонтируют путевые стены](https://kudago.com/spb/news/kapitalnyj-remont-na-baltijskoj/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-09
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### Стали известны лауреаты Венецианского кинофестиваля
-**Id:** 51310
+### В Ленобласти заметили воробья с белыми перьями
+**№:** 94
+
+**Id:** 51495
 
 **Place:** Place is undefined
 
 
-**Description:** Главный приз получил Педро Альмодовар.
+**Description:** Это не альбинос.
 
 
-**Site url:** [Стали известны лауреаты Венецианского кинофестиваля](https://kudago.com/all/news/laureaty-venecianskogo-kinofestivalya-2024/)
+**Site url:** [В Ленобласти заметили воробья с белыми перьями](https://kudago.com/spb/news/v-lenoblasti-zametili-belogo-vorobya/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-09
+**Publication date:** 2024-09-24
 
 **Rating:** 0.5
 
 
-### The Weeknd поделился обложкой нового альбома
-**Id:** 51309
+### Вышел новый трейлер второго «Гладиатора»
+**№:** 95
+
+**Id:** 51494
 
 **Place:** Place is undefined
 
 
-**Description:** И его названием.
+**Description:** Премьера ожидается в ноябре.
 
 
-**Site url:** [The Weeknd поделился обложкой нового альбома](https://kudago.com/all/news/the-weeknd-podelilsya-oblozhkoj/)
+**Site url:** [Вышел новый трейлер второго «Гладиатора»](https://kudago.com/all/news/novyj-trejler-vtorogo-gladiatora/)
 
 **Favorites:** 0
 
 **Comments:** 0
 
-**Publication date:** 2024-09-09
+**Publication date:** 2024-09-24
+
+**Rating:** 0.5
+
+
+### Вышел первый трейлер фильма о злодеях Marvel
+**№:** 96
+
+**Id:** 51493
+
+**Place:** Place is undefined
+
+
+**Description:** Премьера — в первой половине в следующего года.
+
+
+**Site url:** [Вышел первый трейлер фильма о злодеях Marvel](https://kudago.com/all/news/pervyj-trejler-gromoverzhcev/)
+
+**Favorites:** 0
+
+**Comments:** 0
+
+**Publication date:** 2024-09-24
+
+**Rating:** 0.5
+
+
+### В башне Олафа в Выборгском замке установили лифт
+**№:** 97
+
+**Id:** 51492
+
+**Place:** Place is undefined
+
+
+**Description:** Цитадель снова начнёт принимать гостей до конца декабря.
+
+
+**Site url:** [В башне Олафа в Выборгском замке установили лифт](https://kudago.com/spb/news/v-bashne-olafa-v-vyiborgskom-zamke-ustanovili-lift/)
+
+**Favorites:** 0
+
+**Comments:** 0
+
+**Publication date:** 2024-09-24
+
+**Rating:** 0.5
+
+
+### Джонни Депп получит премию за достижения в кинематографе на Римском кинофестивале
+**№:** 98
+
+**Id:** 51489
+
+**Place:** Place is undefined
+
+
+**Description:** Он состоится в октябре.
+
+
+**Site url:** [Джонни Депп получит премию за достижения в кинематографе на Римском кинофестивале](https://kudago.com/all/news/dzhonni-depp-poluchit-premiyu-za/)
+
+**Favorites:** 0
+
+**Comments:** 0
+
+**Publication date:** 2024-09-23
+
+**Rating:** 0.5
+
+
+### Вышел новый трейлер экшен-комедии «Миссия: Красный» с Дуэйном Джонсоном и Крисом Эвансом
+**№:** 99
+
+**Id:** 51485
+
+**Place:** Place is undefined
+
+
+**Description:** В прокате лента появится в ноябре.
+
+
+**Site url:** [Вышел новый трейлер экшен-комедии «Миссия: Красный» с Дуэйном Джонсоном и Крисом Эвансом](https://kudago.com/all/news/vyishel-novyij-trejler-ekshen-/)
+
+**Favorites:** 0
+
+**Comments:** 0
+
+**Publication date:** 2024-09-23
 
 **Rating:** 0.5
 
