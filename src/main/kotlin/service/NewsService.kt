@@ -48,7 +48,6 @@ class NewsService(private val client: HttpClient) {
                     parameter("page", page)
                 }
             val allNews = json.decodeFromString<AllNews>(response.bodyAsText())
-            client.close()
 
             return allNews.results
         } catch (exc: Exception) {

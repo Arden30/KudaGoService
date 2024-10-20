@@ -6,13 +6,11 @@ import io.ktor.http.*
 import io.ktor.serialization.kotlinx.json.*
 import kotlinx.coroutines.runBlocking
 import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.io.TempDir
-import java.nio.file.Path
 import kotlin.test.Test
 
 class KotlinServiceTest {
     @Test
-    fun `test getNews returns valid news list`(@TempDir tempDir: Path) = runBlocking {
+    fun `test getNews returns valid news list`() = runBlocking {
         val mockEngine = MockEngine { _ ->
             respond(
                 content = """{
