@@ -28,7 +28,7 @@ class NewsService(private val client: HttpClient) {
     private val logger = LoggerFactory.getLogger(NewsService::class.java)
     private val url = "https://kudago.com/public-api/v1.4/news/"
     private val location = "spb"
-    private val nThreads = 3
+    private val nThreads = 20
     private val nWorkers = 5
     private val workerDispatcher = newFixedThreadPoolContext(nThreads, "Threads")
     private var isFirstRun = true
@@ -114,7 +114,7 @@ class NewsService(private val client: HttpClient) {
         logger.info("Result was saved in: {}", filePath.fileName)
     }
 
-    private fun launchWorkers(channel: Channel<List<News>>, nWorkers: Int, count: Int) {
+    private fun launchWorkers(channel: Channel<List<News>>, count: Int) {
         val atomicCounter = AtomicInteger(count)
         for (i in 1..nWorkers) {
             CoroutineScope(workerDispatcher).launch {
@@ -149,7 +149,7 @@ class NewsService(private val client: HttpClient) {
         val channel = Channel<List<News>>()
         val newsList = mutableListOf<News>()
 
-        launchWorkers(channel, nWorkers, count)
+        launchWorkers(channel, count)
         for (news in channel) {
             newsList.addAll(news)
             if (news.isEmpty()) {

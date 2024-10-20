@@ -12,7 +12,10 @@ suspend fun main() = runBlocking {
     val dotenv = Dotenv.configure().load()
     val newsService = NewsService(HttpClient(CIO))
 
-    val allNews = newsService.getAndSaveAllNews(dotenv["ALL_NEWS_PATH_CSV"], 100)
+    val start = System.currentTimeMillis()
+    val allNews = newsService.getAndSaveAllNews(dotenv["ALL_NEWS_PATH_CSV"], 50)
+    val end = System.currentTimeMillis()
+    println("Time taken: " + (end - start) + " ms")
     newsService.writeNewsInFile(allNews, dotenv["ALL_NEWS_PATH_MD"])
 
     val mostRatedNews = allNews.getMostRatedNewsWithSequences(20, LocalDate.of(2024, 9, 10)..LocalDate.of(2024, 10, 18))
